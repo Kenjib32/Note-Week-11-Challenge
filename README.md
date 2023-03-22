@@ -13,15 +13,9 @@ Creating a note taker to organize tasks and thoughts.
 ![Note](./public/assets/screenshots/Note.png)
 ## Complied Criteria
 
-* HTML file is generated that displays Team Profile.
+* Presented with a landing page with a link to a notes page after clicking the Get Started button.
 
-* Default email program opens and populates the TO field including the email address on the address bar when the team member's email has been clicked.
-
-* Prompted to enter team members' (manager, engineer, employee, and intern) employee ID, email address, office number, and school.
-
-* After finishing the entry, an option to add a staff member will appear.
-
-* Option to finish the entries once finished, and the HTML will be generated.
+* Able to save the notes after pressing Enter.
 
 ## Repository
 
